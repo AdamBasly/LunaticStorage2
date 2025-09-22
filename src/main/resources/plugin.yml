@@ -1,6 +1,6 @@
-name: LunaticStorage2
+name: LunaticStorage
 version: '${project.version}'
-main: de.janschuri.lunaticstorage.LunaticStorage
+main: de.janschuri.lunaticstorage.LunaticStoragePlugin
 api-version: '1.21'
 softdepend: ProfessorAdamGeldPlugin
 commands:
